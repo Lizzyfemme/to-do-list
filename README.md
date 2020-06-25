@@ -7,6 +7,11 @@ Drag and drop to-do-list bulit for the purpose of improving my typescirpt.
 - TypeScript
 - lite-server
 
+## Demo
+
+!["Add a project"](https://github.com/Lizzyfemme/to-do-list/blob/master/screen_capture/add_a_project.gif)
+!["Drag and drop"](https://github.com/Lizzyfemme/to-do-list/blob/master/screen_capture/drag-and-drop.gif)
+
 ## Getting Started
 
 1. Down the package folder.
