@@ -6,6 +6,7 @@ Drag and drop to-do-list bulit for the purpose of improving my typescirpt.
 
 - TypeScript
 - lite-server
+- webpack
 
 ## Demo
 
